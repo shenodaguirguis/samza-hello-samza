@@ -1,4 +1,4 @@
--- NOTE: Groupby Operator is currently not fully stable,
+-- NOTE: GROUPBY Operator is currently not fully stable,
 --       we are actively working on stabilizing it.
 
 -- Emit Page view counts collected grouped by page key in the last

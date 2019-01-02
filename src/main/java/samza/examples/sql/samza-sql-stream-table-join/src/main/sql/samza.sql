@@ -1,4 +1,4 @@
--- NOTE: Join Operator is currently not fully stable,
+-- NOTE: JOIN Operator is currently not fully stable,
 --       we are actively working on stabilizing it.
 
 -- Enrich PageViewEvent with member profile data
